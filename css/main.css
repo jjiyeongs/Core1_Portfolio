@@ -11,7 +11,9 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;1,400&family=Source+Sans+Pro&display=swap');
+   <style>
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+</style>
 
 html {
   color: #222;
